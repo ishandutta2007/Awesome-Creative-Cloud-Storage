@@ -58,36 +58,36 @@ Below is a breakdown of prominent commercial and enterprise creative cloud stora
 
 ## 💻 Open-Source GitHub Projects
 
-Self-hosted cloud storage engines, peer-to-peer file synchronization daemons, and creative media backup suites, **ranked in descending order by GitHub Stars**:
+Self-hosted cloud storage engines, peer-to-peer file synchronization daemons, and creative media backup suites, **ranked in descending order by GitHub_Stars**:
 
-- **[Immich](https://github.com/immich-app/immich)** [![GitHub Stars](https://img.shields.io/github/stars/immich-app/immich?style=social&color=white)](https://github.com/immich-app/immich/stargazers)  
+- **[Immich](https://github.com/immich-app/immich)** [![GitHub_Stars](https://img.shields.io/github/stars/immich-app/immich?style=social&color=white)](https://github.com/immich-app/immich/stargazers)  
   High-performance self-hosted photo, video, and creative media management solution designed as a direct replacement for Google Photos and Adobe Lightroom web catalogs. Includes ML facial recognition, object detection, reverse geocoding, multi-user isolation, and real-time mobile background backup.
 
-- **[Syncthing](https://github.com/syncthing/syncthing)** [![GitHub Stars](https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white)](https://github.com/syncthing/syncthing/stargazers)  
+- **[Syncthing](https://github.com/syncthing/syncthing)** [![GitHub_Stars](https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white)](https://github.com/syncthing/syncthing/stargazers)  
   Open-source peer-to-peer continuous file synchronization standard (MPL-2.0). Connects workstations, render nodes, and backup servers directly over TLS without passing through third-party cloud servers. Ideal for large production project files, RAW assets, and decentralizing local team storage.
 
-- **[Rclone](https://github.com/rclone/rclone)** [![GitHub Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers)  
+- **[Rclone](https://github.com/rclone/rclone)** [![GitHub_Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers)  
   The "Swiss Army knife" of cloud storage (MIT). Versatile command-line program to sync, transfer, encrypt, and mount files across 70+ cloud storage providers including S3, B2, Google Drive, OneDrive, and SFTP. Features virtual on-demand filesystem mounting (`rclone mount`) essential for creative media pipelines.
 
-- **[Nextcloud Server](https://github.com/nextcloud/server)** [![GitHub Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)  
+- **[Nextcloud Server](https://github.com/nextcloud/server)** [![GitHub_Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)  
   The flagship comprehensive self-hosted collaboration platform (AGPL-3.0). Serves as an open-source alternative to Dropbox and Box, featuring file sync and sharing, granular access control, external storage mounts, version history, Nextcloud Talk, and rich integrations with Collabora and OnlyOffice.
 
-- **[File Browser](https://github.com/filebrowser/filebrowser)** [![GitHub Stars](https://img.shields.io/github/stars/filebrowser/filebrowser?style=social&color=white)](https://github.com/filebrowser/filebrowser/stargazers)  
+- **[File Browser](https://github.com/filebrowser/filebrowser)** [![GitHub_Stars](https://img.shields.io/github/stars/filebrowser/filebrowser?style=social&color=white)](https://github.com/filebrowser/filebrowser/stargazers)  
   Lightweight, single-binary personal cloud and web file manager written in Go (Apache-2.0). Provides a clean, modern web interface to upload, download, preview audio/video/images, edit documents, and manage permissions over any existing server filesystem without database overhead.
 
-- **[Ente Photos](https://github.com/ente-io/ente)** [![GitHub Stars](https://img.shields.io/github/stars/ente-io/ente?style=social&color=white)](https://github.com/ente-io/ente/stargazers)  
+- **[Ente Photos](https://github.com/ente-io/ente)** [![GitHub_Stars](https://img.shields.io/github/stars/ente-io/ente?style=social&color=white)](https://github.com/ente-io/ente/stargazers)  
   End-to-end encrypted, zero-knowledge cloud storage and synchronization architecture for creative photo and video assets (AGPL-3.0). Features audited client-side cryptography, cross-platform clients (iOS, Android, macOS, Windows, Linux), and full self-hosting support.
 
-- **[Seafile](https://github.com/haiwen/seafile)** [![GitHub Stars](https://img.shields.io/github/stars/haiwen/seafile?style=social&color=white)](https://github.com/haiwen/seafile/stargazers)  
+- **[Seafile](https://github.com/haiwen/seafile)** [![GitHub_Stars](https://img.shields.io/github/stars/haiwen/seafile?style=social&color=white)](https://github.com/haiwen/seafile/stargazers)  
   High-performance open-source file sync and sharing engine written in C/Python (AGPLv3). Employs Git-like block-level deduplication and delta sync, making it exceptionally fast for huge creative binary assets, design files, and video project folders. Features client-side encrypted libraries and the SeaDrive virtual file drive.
 
-- **[SFTPGo](https://github.com/drakkan/sftpgo)** [![GitHub Stars](https://img.shields.io/github/stars/drakkan/sftpgo)](https://github.com/drakkan/sftpgo/stargazers)  
+- **[SFTPGo](https://github.com/drakkan/sftpgo)** [![GitHub_Stars](https://img.shields.io/github/stars/drakkan/sftpgo)](https://github.com/drakkan/sftpgo/stargazers)  
   Fully-featured and highly configurable event-driven file transfer and storage gateway supporting SFTP, HTTP/S (WebDAV/WebClient), and FTP/S with multi-tenant storage backends (S3, GCS, Azure Blob, local disk). Essential for automated ingestion of assets from studios and remote production teams.
 
-- **[ownCloud Infinite Scale (oCIS)](https://github.com/owncloud/ocis)** [![GitHub Stars](https://img.shields.io/github/stars/owncloud/ocis?style=social&color=white)](https://github.com/owncloud/ocis/stargazers)  
+- **[ownCloud Infinite Scale (oCIS)](https://github.com/owncloud/ocis)** [![GitHub_Stars](https://img.shields.io/github/stars/owncloud/ocis?style=social&color=white)](https://github.com/owncloud/ocis/stargazers)  
   A complete microservices-based, cloud-native rewrite of ownCloud in Go (Apache-2.0). Eliminates traditional database bottlenecks via the EOS storage engine, introducing user-independent Spaces, enterprise audit logging, and OIDC authentication tailored for high-concurrency cloud native deployments.
 
-- **[Pydio Cells](https://github.com/pydio/cells)** [![GitHub Stars](https://img.shields.io/github/stars/pydio/cells?style=social&color=white)](https://github.com/pydio/cells/stargazers)  
+- **[Pydio Cells](https://github.com/pydio/cells)** [![GitHub_Stars](https://img.shields.io/github/stars/pydio/cells?style=social&color=white)](https://github.com/pydio/cells/stargazers)  
   Cloud-native enterprise file sharing and content collaboration platform (AGPL-3.0) written in Go with microservice architecture. Offers fine-grained attribute-based access control (ABAC), user-friendly Spaces, automated workflows, and S3-compliant distributed storage.
 
 ---
@@ -100,7 +100,7 @@ Contributions are welcome to keep this directory updated!
 2. 🌿 Create a feature branch: `git checkout -b add-awesome-tool`.
 3. 📝 Add your entry ensuring:
    - For SaaS: Include starting pricing, specific free tier limits, company scale, and official links.
-   - For Open-Source: Include official repo link, star badge linking to stargazers, license, and primary capabilities.
+   - For Open-Source: Include official repo link, Stars_Badge linking to stargazers, license, and primary capabilities.
 4. 🚀 Commit your changes and submit a Pull Request with a clear description.
 
 ---
